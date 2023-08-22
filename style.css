@@ -1,0 +1,269 @@
+body {
+    background-color: #95c2c2;
+    margin: 100px 0 0 20px;
+}
+
+.card {
+display: inline-flex;
+background-color:white;
+border: 2px solid black;
+margin: none;
+}
+
+.ava {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+
+.para {
+    display: inline-block;
+    margin:20px auto;
+    padding: 10px ;
+    
+}
+
+
+.title {
+    color: #565959;
+    text-transform: capitalize;
+    padding-top: 5px;
+}
+
+.items {
+    text-transform: capitalize;
+}
+
+.star {
+    width: 150px;
+}
+
+.arl:link, .arl:visited {
+
+    text-transform: capitalize;
+    color: #007185; 
+    font-weight: 600;
+    
+    
+    
+
+}
+ 
+.arl:hover, .arl:active {
+    text-transform: capitalize;
+    
+}
+
+h3::first-letter {
+    text-transform: capitalize;
+
+}
+
+.cap {
+    text-transform: capitalize;
+}
+
+.item::first-letter {
+    text-transform:capitalize ;
+
+
+}
+
+.top {
+    text-transform: capitalize;
+    top: -22px;
+    left: 40px;
+    background-color:#00a5a5;
+    color: white;
+    width: 740px;
+    height:31px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.multicolortext {
+    text-transform: capitalize;
+    position: relative;;
+    top: 49px;
+    left: 2px;
+    color:black;
+    width: 740px;
+    height:31px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.gun {
+    text-transform: uppercase;
+    font-size: 40px;
+    color: red;
+    position: relative;
+    top: 10px;
+    left: 286px;
+    width: 190px;
+    height: 138px;
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+
+.head {
+    font-size: 55px;
+    position: relative;
+    top: -2px;
+    left: -137px;
+    width: 464px;
+    height: 71px;
+    text-align: center;
+
+}
+
+.bod {
+    font-size: 55px;
+    position: relative;
+    top: -2px;
+    left: -220px;
+    width: 609px;
+    height: 71px;
+    text-align: center;
+
+}
+
+.color {
+    text-transform: uppercase;
+    color: black;
+    font-size: 115px;
+    position: relative;
+    top: -24px;
+    left: 1px;
+    text-align: center;
+
+   
+
+}
+
+.sta {
+    width: 150px;
+    position: relative;
+    top: 60px;
+    left: 598px;
+    
+}
+
+.starr {
+    width: 150px;
+    position: relative;
+    top: -47px;
+    left: 2px;
+    
+
+}
+
+.st {
+    font-size: 21px;
+    position: relative;
+    top: -3px;
+    left: 173px;
+    width: 401px;
+    height: 41px;
+    text-align: center;
+}
+
+.border {
+    background-color: #007185;
+    position: relative;
+    top: 42px;
+    left: 4px;
+    width: 284px;
+    height: 4px;
+}
+
+.bord {
+    background-color: #007185;
+    position: relative;
+    top: 0px;
+    left: 459px;
+    width: 284px;
+    height: 4px;
+}
+ 
+.and {
+    text-transform: uppercase;
+    color: black;
+    font-size: 34px;
+    position: relative;
+    top: 19px;
+    left: 3px;
+    text-align: center;
+
+   
+
+
+}
+
+.avater {
+    width: 751px;
+    height: 703px;
+    position: relative;
+    top: -15px;
+    left: 4px;
+}
+
+
+.bbc {
+    text-transform: capitalize;
+    font-size: 26px;
+    content:"bbc";
+    position: relative;
+    top: 65px;
+    left: 58px;
+    background-color:#050505;
+    width: 81px;
+    height: 57px;
+    text-align: center;
+    padding-top: 26px;
+
+
+}
+
+.B {
+    color: red;
+    text-align: center;
+    
+
+}
+
+.b {
+
+    color: blueviolet;
+    text-align: center;
+
+
+}
+
+
+.C {
+    color: aqua;
+    text-align: center;
+    
+}
+ 
+.jam {
+    border:3px solid rgb(228, 221, 221);
+    border-radius: 10px;
+}
+
+.multi {
+    text-transform: capitalize;
+    position: relative;;
+    top: -10px;
+    left: 2px;
+    color:black;
+    width: 740px;
+    height:31px;
+    text-align: center;
+    margin-top: 10px;
+
+
+}
